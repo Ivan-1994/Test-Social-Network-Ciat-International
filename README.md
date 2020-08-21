@@ -1,1 +1,1 @@
-# Test-Social-Network-Ciat-International
+# Задание описано в pdf "Python developer.pdf"
